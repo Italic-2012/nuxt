@@ -19,8 +19,6 @@ $ npm start
 $ npm run generate
 ```
 
-### 前端交流群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbc7299cbc5ac88cc77dc76057ace6340d50847e18016a80aa33d45bb6e9462b">731175396</a>
-
 ### [项目线上地址](http://www.qiangdada.cn/)
 
 ## 完成功能列表
@@ -38,16 +36,6 @@ $ npm run generate
 - [x] 滚动分页加载
 
 - [x] 不同端的布局适配
-
-## 一、效果图
-
-### 1、PC 端
-
-![](https://raw.githubusercontent.com/xuqiang521/xuqiang521.github.io/master/images/blog/nuxt/pc.gif)
-
-### 2、移动端
-
-![](https://raw.githubusercontent.com/xuqiang521/xuqiang521.github.io/master/images/blog/nuxt/mobile.gif)
 
 看完最终完成的效果图，接下来，开始我们的实战之旅吧 ~
 
@@ -517,7 +505,6 @@ pm2 start npm --name "nuxt-ssr-demo" -- run build
 ```
 
 然后，妈妈再也不用担心我的 nodejs 进程说断就断啦 ~
-![](https://static.oschina.net/uploads/img/201804/04020526_BTg0.jpg)
 
 对于 pm2 用法，请小伙伴们输入 `pm2 --help` 然后自行查阅
 
@@ -530,5 +517,3 @@ pm2 start npm --name "nuxt-ssr-demo" -- run build
 但是，目前 `Nuxt` 整体还是有待提高的，目前社区相关的三方插件比较有限，市面上相关的参考资料也相对比较少。
 
 不管如何，希望 `Nuxt` 社区可以越来越好吧 ~
-
-最后，如果觉得这个项目有点意思，欢迎 star。当然，如果你想了解更多 `Nuxt` ，欢迎进群<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbc7299cbc5ac88cc77dc76057ace6340d50847e18016a80aa33d45bb6e9462b">731175396</a>，一起探讨
